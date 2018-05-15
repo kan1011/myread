@@ -1,7 +1,7 @@
 Instruction:
 
 Install:
-- PropTypes and React-Router-Dom were installed, so after "yarn add" this two project, it should be able to run
+- Just get into the repository and type "yarn install" to install the dependecies
 
 
 Launch:
